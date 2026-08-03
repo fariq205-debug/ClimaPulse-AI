@@ -28,6 +28,3 @@ ClimaPulse AI is an end-to-end, interactive weather intelligence platform design
 - **Document Generation:** FPDF
 
 ---
-
-├── .gitignore            # Git Exclusions File
-└── README.md             # Project Documentation
