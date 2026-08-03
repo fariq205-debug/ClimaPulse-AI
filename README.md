@@ -29,12 +29,5 @@ ClimaPulse AI is an end-to-end, interactive weather intelligence platform design
 
 ---
 
-## 📂 Project Directory Structure
-
-```text
-ClimaPulse-AI/
-├── app.py                # Main Streamlit Application Dashboard
-├── requirements.txt      # Python Dependencies List
-├── .env.example          # Environment Variables Template
 ├── .gitignore            # Git Exclusions File
 └── README.md             # Project Documentation
