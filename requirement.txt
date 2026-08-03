@@ -1,4 +1,8 @@
 streamlit
 plotly
 pandas
+numpy
 requests
+scikit-learn
+fpdf2
+python-dotenv
